@@ -1,0 +1,34 @@
+body{
+    height:100%;
+    width:100%;
+    background-color: white;
+}
+.parent{
+    display:flex;
+    justify-content:center;
+    align-items :end;
+    
+    background-color: white;
+}
+#speed{
+    color:aqua;
+    /* margin:0.5%; */
+    margin:70px
+    
+}
+.bg-dark{
+    padding:20px;   
+}
+#size{
+    color:aqua;
+    /* margin:0.5%; */
+    margin: 70px;
+}
+
+#sort{
+    margin-left:20%;
+}
+
+button{
+    margin:10px;
+}
